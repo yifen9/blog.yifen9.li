@@ -1,1 +1,7 @@
-__site
+/.quarto/
+build
+index_files
+*.aux
+*.log
+*.out
+*.gz
