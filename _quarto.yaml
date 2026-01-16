@@ -8,9 +8,8 @@ website:
     contents:
       - text: Home
         href: index.qmd
-  # repo-url: https://github.com/yifen9/yifen9.li
-  # repo-subdir: sites/blog
-  # repo-actions: [source, edit, issue]
+  repo-url: https://github.com/yifen9/yifen9.li
+  repo-actions: [source, edit, issue]
 
 format:
   html:
