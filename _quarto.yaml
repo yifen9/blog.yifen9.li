@@ -5,6 +5,7 @@ project:
 website:
   title: "Li Yifeng's Blog"
   site-url: "https://blog.yifen9.li"
+  description: "Li Yifeng's Blog"
   repo-url: https://github.com/yifen9/blog.yifen9.li
   navbar:
     search: true
