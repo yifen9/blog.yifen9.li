@@ -10,10 +10,12 @@ website:
   navbar:
     search: true
     right:
-      - icon: rss
-        href: index.xml
+      - icon: person
+        href: https://yifen9.li
       - icon: github
         href: https://github.com/yifen9/blog.yifen9.li
+      - icon: rss
+        href: index.xml
   sidebar:
     contents:
       - icon: house
