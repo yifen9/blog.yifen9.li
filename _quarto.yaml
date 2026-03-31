@@ -9,6 +9,9 @@ website:
   repo-url: https://github.com/yifen9/blog.yifen9.li
   navbar:
     search: true
+    left:
+      - text: Home
+        href: index.qmd
     right:
       - icon: person
         href: https://yifen9.li
@@ -16,11 +19,7 @@ website:
         href: https://github.com/yifen9/blog.yifen9.li
       - icon: rss
         href: index.xml
-  sidebar:
-    contents:
-      - icon: house
-        text: Home
-        href: index.qmd
+      
   page-footer:
     center: |
       <p align="center">
