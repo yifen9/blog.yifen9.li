@@ -3,7 +3,7 @@ project:
   output-dir: build
 
 website:
-  title: "blog.yifen9.li"
+  title: "Li Yifeng's Blog"
   repo-url: https://github.com/yifen9/blog.yifen9.li
   navbar:
     search: true
