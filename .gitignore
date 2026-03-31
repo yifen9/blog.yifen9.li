@@ -5,3 +5,5 @@ index_files
 *.log
 *.out
 *.gz
+
+**/*.quarto_ipynb
