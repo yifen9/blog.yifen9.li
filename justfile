@@ -34,3 +34,18 @@ open:
 
 dev:
     just preview
+
+new-post:
+    ts=$(date '+%Y-%m-%d-%H-%M-%S'); \
+    day=$(date '+%Y-%m-%d'); \
+    dir="posts/$ts"; \
+    mkdir -p "$dir"; \
+    printf '%s\n' \
+      '---' \
+      'title: ""' \
+      "date: \"$day\"" \
+      'date-modified: last-modified' \
+      'categories: []' \
+      '---' \
+      '' > "$dir/index.qmd"; \
+    printf '%s\n' "$dir/index.qmd"

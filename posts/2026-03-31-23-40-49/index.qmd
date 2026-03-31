@@ -1,0 +1,8 @@
+---
+title: "This website has been switch to Quarto"
+date: "2026-03-31"
+date-modified: last-modified
+categories: [meta]
+---
+
+From now this website no longer uses [Franklin.jl](https://franklinjl.org), but [Quarto](https://quarto.org).
