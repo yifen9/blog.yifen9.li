@@ -4,16 +4,19 @@ project:
 
 website:
   title: "Li Yifeng's Blog"
+  site-url: "https://blog.yifen9.li"
   repo-url: https://github.com/yifen9/blog.yifen9.li
   navbar:
     search: true
-    tools:
+    right:
+      - icon: rss
+        href: index.xml
       - icon: github
-        aria-label: GitHub
         href: https://github.com/yifen9/blog.yifen9.li
   sidebar:
     contents:
-      - text: Home
+      - icon: house
+        text: Home
         href: index.qmd
   page-footer:
     center: |
@@ -27,3 +30,7 @@ website:
         <a href="https://github.com">GitHub</a> &amp;
         <a href="https://quarto.org">Quarto</a>
       </p>
+
+format:
+  html:
+    theme: cosmo
