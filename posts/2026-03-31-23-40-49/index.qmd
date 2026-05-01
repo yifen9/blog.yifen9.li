@@ -1,5 +1,5 @@
 ---
-title: "News | This website has been switched to Quarto"
+title: "Tech Log #2 | This website has been switched to Quarto"
 date: "2026-03-31"
 date-modified: last-modified
 categories: [Meta]
