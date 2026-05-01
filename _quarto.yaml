@@ -23,7 +23,7 @@ website:
   page-footer:
     center: |
       <p align="center">
-        <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
+        <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" loading="lazy"/>
       </p>
       <p align="center">
         © {{< now year >}} <a href="https://yifen9.li">LI Yifeng</a>
@@ -35,4 +35,4 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, theme.scss]
