@@ -3,9 +3,9 @@ project:
   output-dir: build
 
 website:
-  title: "Li Yifeng's Blog"
+  title: "LI Yifeng's Blog"
   site-url: "https://blog.yifen9.li"
-  description: "Li Yifeng's Blog"
+  description: "LI Yifeng's Blog"
   repo-url: https://github.com/yifen9/blog.yifen9.li
   navbar:
     search: true
@@ -26,7 +26,7 @@ website:
         <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
       </p>
       <p align="center">
-        © {{< now year >}} <a href="https://yifen9.li">Li Yifeng</a>
+        © {{< now year >}} <a href="https://yifen9.li">LI Yifeng</a>
       </p>
       <p align="center">
         <a href="https://github.com">GitHub</a> &amp;
