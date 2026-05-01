@@ -26,8 +26,10 @@ website:
     center: |
       © {{< now year >}} <a href="https://yifen9.li">LI Yifeng</a>
     right:
+      - text: "Powered by"
       - text: "GitHub"
         href: https://github.com
+      - text: "&"
       - text: "Quarto"
         href: https://quarto.org
 
