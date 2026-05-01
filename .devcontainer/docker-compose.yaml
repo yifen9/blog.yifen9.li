@@ -1,7 +1,7 @@
 services:
-  blog.yifen9.li-dev:
-    image: ghcr.io/yifen9/blog.yifen9.li-dev
-    container_name: blog.yifen9.li-dev
+  blog-yifen9-li-dev:
+    image: ghcr.io/yifen9/blog-yifen9-li-dev
+    container_name: blog-yifen9-li-dev
     working_dir: /workspace
     volumes:
       - "..:/workspace"
