@@ -1,5 +1,5 @@
 ---
-title: "This website has been switch to Quarto"
+title: "This website has been switched to Quarto"
 date: "2026-03-31"
 date-modified: last-modified
 categories: [meta]
