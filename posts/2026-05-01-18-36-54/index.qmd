@@ -2,6 +2,6 @@
 title: "METI | White Paper 2025 #2 | Part II: Inclusiveness, Economies of Scale and Asymmetric Dependence, and Service Value Added"
 date: "2026-05-01"
 date-modified: last-modified
-categories: [Policy]
+categories: [Report]
 ---
 

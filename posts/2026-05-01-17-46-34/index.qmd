@@ -2,6 +2,6 @@
 title: "METI | White Paper 2025 #1 | Part I: Escalating Uncertainty at a Critical Juncture of the International Economic Order (IEO)"
 date: "2026-05-01"
 date-modified: last-modified
-categories: [Policy]
+categories: [Report]
 ---
 
